@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stock Market Simulator</string>
+    <string name="search_stocks">Search Stocks...</string>
+    <string name="top_gainers">Top Gainers</string>
+</resources>
